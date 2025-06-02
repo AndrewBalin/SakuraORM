@@ -1,1 +1,9 @@
+# Builds
 /target
+
+# Editors
+.idea
+.vs
+
+# Configurations
+.env*
